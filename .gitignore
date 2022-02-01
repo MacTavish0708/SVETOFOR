@@ -2,3 +2,4 @@ SVETOFOR/*
 *.cogui
 *.comarker
 *.coproj
+.gitignore
